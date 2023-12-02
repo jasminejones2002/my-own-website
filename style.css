@@ -1,3 +1,66 @@
 body {
-    background: blue;
+    background: darkgray;
+    color: white;
+    border-style: solid;
+    border-color: black;
+}
+h1 {
+    color: rgb(110, 4, 110);
+    background-color: black;
+    text-align: center;
+    font-size: 40px;
+}
+h2 {
+    color: rgb(110, 4, 110);
+    background-color: black;
+    padding-left: 20px;
+}
+#mypersonality {
+    font-size: 25px; 
+    width: 650px;
+    text-align: center;
+    margin: auto;
+}
+.Aboutme {
+    display: flex;
+    align-items: center;
+}
+.delores {
+    padding-right: 20px;
+    height: 300px;
+    position: relative;
+}
+.wsiblings {
+    height: 20%;
+    width: 200px;
+    margin-left: 20px;
+    padding-top: 60px;
+}
+.wdad {
+    height: 10%;
+    width: 200px;
+}
+.bella {
+    height: 10%;
+    width: 200px;
+    margin-right: 40px;
+}
+.cookie {
+    height: 30%;
+    width: 200px;
+    padding-top: 100px;
+}
+.myfamily {
+    display: flex;
+}
+#aboutfamily {
+    font-size: 25px;
+    width: 400px; 
+    text-align: center;
+    margin:auto;
+ }
+#funsurprise {
+    margin-top: auto;
+    text-align: center;
+    font-size: 20px;
 }
