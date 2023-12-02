@@ -13,9 +13,3 @@ function clickHere(funsurprise) {
     document.body.appendChild(link);
    });
 }
-function changeStyle() {
-    let bigImage = document.getElementsByClassName("wsiblings")
-    bigImage.addEventListener( "mouseover", function() {
-        document.wsiblings.style = "height:200px; width:200px";
-    });
-}
